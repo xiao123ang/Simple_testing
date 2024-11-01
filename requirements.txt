@@ -1,3 +1,4 @@
 pytest
 requests
 prometheus_client
+yagmail

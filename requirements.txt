@@ -9,3 +9,5 @@ cx_Oracle
 pyodbc
 mysql-connector-python
 JPype1
+selenium
+playwright

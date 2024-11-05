@@ -8,3 +8,4 @@ pycryptodome
 cx_Oracle
 pyodbc
 mysql-connector-python
+JPype1

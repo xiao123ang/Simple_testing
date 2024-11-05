@@ -3,3 +3,8 @@ requests
 prometheus_client
 yagmail
 websockets
+cryptography
+pycryptodome
+cx_Oracle
+pyodbc
+mysql-connector-python

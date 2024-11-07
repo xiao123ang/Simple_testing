@@ -1,4 +1,4 @@
-# 用py封装方法的定位
+# 元素放到PY文件中，再调用
 from playwright.sync_api import Page
 from elements.baidu_search_elements import BaiduSearchElements
 

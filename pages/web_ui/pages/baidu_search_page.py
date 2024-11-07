@@ -23,8 +23,8 @@ class BaiduSearchPage:
 
     def enter_search_term(self, term):
         search_input = read_locator('baidu_search_page', 'search_input')
-        self.page.fill(search_input, term)
+        self.page.locator(search_input).fill(term)
 
     def click_search(self):
         search_button = read_locator('baidu_search_page', 'search_button')
-        self.page.click(search_button)
+        self.page.locator(search_button).click()

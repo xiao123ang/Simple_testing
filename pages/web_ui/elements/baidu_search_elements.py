@@ -1,3 +1,3 @@
 class BaiduSearchElements:
-    SEARCH_INPUT = "input[name='wd']"
-    SEARCH_BUTTON = "input[type='submit']"
+    SEARCH_INPUT = "//*[@id='kw']"
+    SEARCH_BUTTON = "//*[@id='su']"
